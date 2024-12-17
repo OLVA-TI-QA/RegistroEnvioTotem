@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Antes de continuar, por favor ingrese t_3e0616</name>
+   <tag></tag>
+   <elementGuidId>d70b3671-43cb-4022-876a-51dbf1d46028</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='btn_guardar_datos_personales_msg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_guardar_datos_personales_msg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2a802b7d-1f3c-45fe-8867-8c5c760fee01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_guardar_datos_personales_msg</value>
+      <webElementGuid>0181ff6e-10a5-4dee-82e9-66c61eaad449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>4723ba36-09b8-453b-8ea7-312db267d264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Antes de continuar, por favor ingrese toda la información necesaria.</value>
+      <webElementGuid>59c5756c-0d9e-4cf4-9d41-a8c88b62b4f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn_guardar_datos_personales_msg&quot;)</value>
+      <webElementGuid>98eb5653-58e4-4e33-82d5-bf8840682261</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='btn_guardar_datos_personales_msg']</value>
+      <webElementGuid>0b69855b-5704-4e54-9dfa-90fa2d7c6719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_quien_envia']/div</value>
+      <webElementGuid>8fc35568-00ad-47e3-8513-e1e2e62bcf1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/following::div[1]</value>
+      <webElementGuid>2d47c3d6-a2c5-4d11-842e-53324ca2ab81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apellido Paterno Minimo 3 Caracteres'])[1]/following::div[3]</value>
+      <webElementGuid>a0f1799f-4f0f-49b5-98f3-25c89a9edd5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validación del primer apellido'])[1]/preceding::div[2]</value>
+      <webElementGuid>0a74f684-4d23-4e8f-986e-388ca6f9fc07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='El apellido ingresado debe ser igual al registrado en su DNI'])[1]/preceding::div[3]</value>
+      <webElementGuid>d1c93321-7e90-413f-8cab-18b0acf0a0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Antes de continuar, por favor ingrese toda la información necesaria.']/parent::*</value>
+      <webElementGuid>3eaaa61b-1d0f-49e7-9655-2ec9f3cb3855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>87671123-9e15-45fc-80a0-806d90230091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'btn_guardar_datos_personales_msg' and (text() = 'Antes de continuar, por favor ingrese toda la información necesaria.' or . = 'Antes de continuar, por favor ingrese toda la información necesaria.')]</value>
+      <webElementGuid>e9b82755-2eac-4613-bf7b-9aad9ce86357</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Restricion-tienda</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04adb5e0-94ab-4cc1-97a1-cfa471ae7b93</testCaseGuid>
+</TestCaseEntity>

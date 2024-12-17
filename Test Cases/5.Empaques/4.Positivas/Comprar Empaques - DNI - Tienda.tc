@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Comprar Empaques - DNI - Tienda</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56a092cf-6990-44f8-addd-2ffaa9c48c8a</testCaseGuid>
+</TestCaseEntity>

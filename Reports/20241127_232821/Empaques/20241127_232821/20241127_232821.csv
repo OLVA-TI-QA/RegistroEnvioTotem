@@ -1,0 +1,126 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Empaques,Firefox 133.0,,,27-11-2024 23:28:34,27-11-2024 23:32:06,"3m - 31,929s",FAILED
+,,,,,,,
+Test Cases/5.Empaques/4.Positivas/Comprar Empaques - Agregar,Firefox 133.0,,,27-11-2024 23:28:34,27-11-2024 23:29:29,"55,040s",PASSED
+"callTestCase(findTestCase(""5.Empaques/1.Inicio-Empaques/Inicio-cajas""), [:], STOP_ON_FAILURE)",Firefox 133.0,,,27-11-2024 23:28:35,27-11-2024 23:28:52,"17,182s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Confirma tus datos/img_Envo de documentoscon un peso mximo de__8aba39""))",Firefox 133.0,,,27-11-2024 23:28:52,27-11-2024 23:28:53,"0,903s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Confirma tus datos/span_He ledo y acepto los_checkmark""))",Firefox 133.0,,,27-11-2024 23:28:53,27-11-2024 23:28:53,"0,562s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Confirma tus datos/button_CONTINUAR""), 0)",Firefox 133.0,,,27-11-2024 23:28:53,27-11-2024 23:28:54,"0,332s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Confirma tus datos/button_CONTINUAR""))",Firefox 133.0,,,27-11-2024 23:28:54,27-11-2024 23:28:55,"1,314s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/span_Tipo De Documento""))",Firefox 133.0,,,27-11-2024 23:28:55,27-11-2024 23:28:56,"0,809s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/a_RUC""))",Firefox 133.0,,,27-11-2024 23:28:56,27-11-2024 23:28:57,"0,695s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/input_CARN EXT_txt_documento_cliente""), ""10066810581"")",Firefox 133.0,,,27-11-2024 23:28:57,27-11-2024 23:28:57,"0,709s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/input_CARN EXT_txt_telefono_cliente""), ""900000001"")",Firefox 133.0,,,27-11-2024 23:28:57,27-11-2024 23:28:59,"1,971s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/div_Hola,""))",Firefox 133.0,,,27-11-2024 23:28:59,27-11-2024 23:29:00,"0,458s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR""), 0)",Firefox 133.0,,,27-11-2024 23:29:00,27-11-2024 23:29:00,"0,255s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR""))",Firefox 133.0,,,27-11-2024 23:29:00,27-11-2024 23:29:01,"1,082s",PASSED
+"scrollToPosition(0, 400)",Firefox 133.0,,,27-11-2024 23:29:01,27-11-2024 23:29:01,"0,040s",PASSED
+"click(findTestObject(""Object Repository/EMPAQUE 1""))",Firefox 133.0,,,27-11-2024 23:29:01,27-11-2024 23:29:02,"0,657s",PASSED
+"click(findTestObject(""Object Repository/EMPAQUE 2""))",Firefox 133.0,,,27-11-2024 23:29:02,27-11-2024 23:29:02,"0,448s",PASSED
+"click(findTestObject(""Object Repository/EMPAQUE 3""))",Firefox 133.0,,,27-11-2024 23:29:02,27-11-2024 23:29:03,"0,450s",PASSED
+"scrollToElement(findTestObject(""Object Repository/EMPAQUE 4""), 0)",Firefox 133.0,,,27-11-2024 23:29:03,27-11-2024 23:29:03,"0,252s",PASSED
+"click(findTestObject(""Object Repository/EMPAQUE 4""))",Firefox 133.0,,,27-11-2024 23:29:03,27-11-2024 23:29:03,"0,455s",PASSED
+"click(findTestObject(""Object Repository/EMPAQUE 5""))",Firefox 133.0,,,27-11-2024 23:29:03,27-11-2024 23:29:04,"0,465s",PASSED
+"scrollToElement(findTestObject(""Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR_empaque""), 0)",Firefox 133.0,,,27-11-2024 23:29:04,27-11-2024 23:29:04,"0,241s",PASSED
+"click(findTestObject(""Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR_empaque""))",Firefox 133.0,,,27-11-2024 23:29:04,27-11-2024 23:29:05,"0,720s",PASSED
+"click(findTestObject(""Comprar Empaques/Page_Olva Courier  Datos Personales/a_AGREGAR EMPAQUES""))",Firefox 133.0,,,27-11-2024 23:29:05,27-11-2024 23:29:06,"0,849s",PASSED
+"scrollToElement(findTestObject(""Object Repository/EMPAQUE 4""), 0)",Firefox 133.0,,,27-11-2024 23:29:06,27-11-2024 23:29:06,"0,445s",PASSED
+"click(findTestObject(""Object Repository/EMPAQUE 4""))",Firefox 133.0,,,27-11-2024 23:29:06,27-11-2024 23:29:07,"0,650s",PASSED
+"click(findTestObject(""Object Repository/EMPAQUE 5""))",Firefox 133.0,,,27-11-2024 23:29:07,27-11-2024 23:29:07,"0,452s",PASSED
+"click(findTestObject(""Object Repository/EMPAQUE 6""))",Firefox 133.0,,,27-11-2024 23:29:07,27-11-2024 23:29:08,"0,457s",PASSED
+"click(findTestObject(""Object Repository/EMPAQUE 6""))",Firefox 133.0,,,27-11-2024 23:29:08,27-11-2024 23:29:08,"0,446s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR_empaque""), 0)",Firefox 133.0,,,27-11-2024 23:29:08,27-11-2024 23:29:08,"0,237s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR_empaque""))",Firefox 133.0,,,27-11-2024 23:29:08,27-11-2024 23:29:09,"0,654s",PASSED
+"click(findTestObject(""Comprar Empaques/Page_Olva Courier  Datos Personales/a_AGREGAR EMPAQUES""))",Firefox 133.0,,,27-11-2024 23:29:09,27-11-2024 23:29:10,"0,787s",PASSED
+"scrollToElement(findTestObject(""Object Repository/EMPAQUE 1""), 0)",Firefox 133.0,,,27-11-2024 23:29:10,27-11-2024 23:29:10,"0,445s",PASSED
+"click(findTestObject(""Object Repository/EMPAQUE 1""))",Firefox 133.0,,,27-11-2024 23:29:10,27-11-2024 23:29:11,"0,650s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR_empaque""), 0)",Firefox 133.0,,,27-11-2024 23:29:11,27-11-2024 23:29:11,"0,239s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR_empaque""))",Firefox 133.0,,,27-11-2024 23:29:11,27-11-2024 23:29:12,"0,668s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR_1_2""), 0)",Firefox 133.0,,,27-11-2024 23:29:12,27-11-2024 23:29:12,"0,449s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR_1_2""))",Firefox 133.0,,,27-11-2024 23:29:12,27-11-2024 23:29:14,"2,150s",PASSED
+delay(3),Firefox 133.0,,,27-11-2024 23:29:14,27-11-2024 23:29:17,"3,044s",PASSED
+"rightClick(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_LIMA - LIMA - MIRAFLORES""))",Firefox 133.0,,,27-11-2024 23:29:17,27-11-2024 23:29:18,"0,585s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_LIMA - LIMA - MIRAFLORES""))",Firefox 133.0,,,27-11-2024 23:29:18,27-11-2024 23:29:19,"0,769s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/a_CALLAO - CALLAO - CALLAO""))",Firefox 133.0,,,27-11-2024 23:29:19,27-11-2024 23:29:19,"0,645s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_Tienda""))",Firefox 133.0,,,27-11-2024 23:29:19,27-11-2024 23:29:20,"1,095s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/a_OLVA ALMACEN - AV. ARGENTINA 4458 - CALLA_89a3f6""))",Firefox 133.0,,,27-11-2024 23:29:20,27-11-2024 23:29:21,"0,479s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR (2)""))",Firefox 133.0,,,27-11-2024 23:29:21,27-11-2024 23:29:22,"0,693s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/input_Para el recojo de tu compra se necesi_22ff2d""), ""1"")",Firefox 133.0,,,27-11-2024 23:29:22,27-11-2024 23:29:22,"0,816s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/input_Para el recojo de tu compra se necesi_39579b""), ""1"")",Firefox 133.0,,,27-11-2024 23:29:22,27-11-2024 23:29:23,"0,873s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/input_Para el recojo de tu compra se necesi_9b4583""), ""1"")",Firefox 133.0,,,27-11-2024 23:29:23,27-11-2024 23:29:24,"0,880s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/input_Para el recojo de tu compra se necesi_cbc9dd""), ""1"")",Firefox 133.0,,,27-11-2024 23:29:24,27-11-2024 23:29:25,"1,013s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/div_Aceptar""))",Firefox 133.0,,,27-11-2024 23:29:25,27-11-2024 23:29:26,"0,560s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_PAGAR""), 0)",Firefox 133.0,,,27-11-2024 23:29:26,27-11-2024 23:29:28,"1,830s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_PAGAR""), 0)",Firefox 133.0,,,27-11-2024 23:29:28,27-11-2024 23:29:28,"0,549s",PASSED
+"callTestCase(findTestCase(""5.Empaques/3.Pago-Empaques/Pago-exitoso""), [:], STOP_ON_FAILURE)",Firefox 133.0,,,27-11-2024 23:29:28,27-11-2024 23:29:29,"1,064s",PASSED
+,,,,,,,
+Test Cases/5.Empaques/4.Positivas/Comprar Empaques - CE - Tienda,Firefox 133.0,,,27-11-2024 23:29:29,27-11-2024 23:30:13,"44,053s",PASSED
+"callTestCase(findTestCase(""5.Empaques/1.Inicio-Empaques/Inicio-cajas""), [:], STOP_ON_FAILURE)",Firefox 133.0,,,27-11-2024 23:29:29,27-11-2024 23:29:44,"14,964s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Confirma tus datos/img_Envo de documentoscon un peso mximo de__8aba39""))",Firefox 133.0,,,27-11-2024 23:29:44,27-11-2024 23:29:45,"0,668s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Confirma tus datos/span_He ledo y acepto los_checkmark""))",Firefox 133.0,,,27-11-2024 23:29:45,27-11-2024 23:29:46,"0,515s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Confirma tus datos/button_CONTINUAR""), 0)",Firefox 133.0,,,27-11-2024 23:29:46,27-11-2024 23:29:46,"0,275s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Confirma tus datos/button_CONTINUAR""))",Firefox 133.0,,,27-11-2024 23:29:46,27-11-2024 23:29:47,"1,149s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/span_Tipo De Documento""))",Firefox 133.0,,,27-11-2024 23:29:47,27-11-2024 23:29:48,"0,765s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/span_CARN EXT""))",Firefox 133.0,,,27-11-2024 23:29:48,27-11-2024 23:29:48,"0,510s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/input_CARN EXT_txt_documento_cliente""), ""002699003"")",Firefox 133.0,,,27-11-2024 23:29:48,27-11-2024 23:29:49,"0,697s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/input_CARN EXT_txt_telefono_cliente""), ""900000001"")",Firefox 133.0,,,27-11-2024 23:29:49,27-11-2024 23:29:50,"1,385s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/div_Hola,""))",Firefox 133.0,,,27-11-2024 23:29:50,27-11-2024 23:29:51,"0,446s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR""), 0)",Firefox 133.0,,,27-11-2024 23:29:51,27-11-2024 23:29:51,"0,232s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR""))",Firefox 133.0,,,27-11-2024 23:29:51,27-11-2024 23:29:52,"0,974s",PASSED
+"scrollToPosition(0, 400)",Firefox 133.0,,,27-11-2024 23:29:52,27-11-2024 23:29:52,"0,014s",PASSED
+"click(findTestObject(""EMPAQUE 1""))",Firefox 133.0,,,27-11-2024 23:29:52,27-11-2024 23:29:53,"0,647s",PASSED
+"click(findTestObject(""EMPAQUE 2""))",Firefox 133.0,,,27-11-2024 23:29:53,27-11-2024 23:29:53,"0,444s",PASSED
+"click(findTestObject(""EMPAQUE 3""))",Firefox 133.0,,,27-11-2024 23:29:53,27-11-2024 23:29:53,"0,443s",PASSED
+"scrollToElement(findTestObject(""EMPAQUE 4""), 0)",Firefox 133.0,,,27-11-2024 23:29:53,27-11-2024 23:29:54,"0,239s",PASSED
+"click(findTestObject(""EMPAQUE 4""))",Firefox 133.0,,,27-11-2024 23:29:54,27-11-2024 23:29:54,"0,434s",PASSED
+"click(findTestObject(""EMPAQUE 5""))",Firefox 133.0,,,27-11-2024 23:29:54,27-11-2024 23:29:55,"0,439s",PASSED
+"click(findTestObject(""EMPAQUE 6""))",Firefox 133.0,,,27-11-2024 23:29:55,27-11-2024 23:29:55,"0,437s",PASSED
+"scrollToElement(findTestObject(""Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR_empaque""), 0)",Firefox 133.0,,,27-11-2024 23:29:55,27-11-2024 23:29:55,"0,237s",PASSED
+"click(findTestObject(""Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR_empaque""))",Firefox 133.0,,,27-11-2024 23:29:55,27-11-2024 23:29:56,"0,712s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR_1_2""), 0)",Firefox 133.0,,,27-11-2024 23:29:56,27-11-2024 23:29:56,"0,463s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR_1_2""))",Firefox 133.0,,,27-11-2024 23:29:56,27-11-2024 23:29:58,"1,994s",PASSED
+delay(3),Firefox 133.0,,,27-11-2024 23:29:58,27-11-2024 23:30:01,"3,007s",PASSED
+"rightClick(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_LIMA - LIMA - MIRAFLORES""))",Firefox 133.0,,,27-11-2024 23:30:01,27-11-2024 23:30:02,"0,540s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_LIMA - LIMA - MIRAFLORES""))",Firefox 133.0,,,27-11-2024 23:30:02,27-11-2024 23:30:03,"0,500s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/a_CALLAO - CALLAO - CALLAO""))",Firefox 133.0,,,27-11-2024 23:30:03,27-11-2024 23:30:03,"0,455s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_Tienda""))",Firefox 133.0,,,27-11-2024 23:30:03,27-11-2024 23:30:04,"1,049s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/a_OLVA ALMACEN - AV. ARGENTINA 4458 - CALLA_89a3f6""))",Firefox 133.0,,,27-11-2024 23:30:04,27-11-2024 23:30:04,"0,452s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_CONTINUAR (2)""))",Firefox 133.0,,,27-11-2024 23:30:04,27-11-2024 23:30:05,"0,448s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/input_Para el recojo de tu compra se necesi_22ff2d""), ""1"")",Firefox 133.0,,,27-11-2024 23:30:05,27-11-2024 23:30:06,"0,888s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/input_Para el recojo de tu compra se necesi_39579b""), ""1"")",Firefox 133.0,,,27-11-2024 23:30:06,27-11-2024 23:30:07,"0,872s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/input_Para el recojo de tu compra se necesi_9b4583""), ""1"")",Firefox 133.0,,,27-11-2024 23:30:07,27-11-2024 23:30:08,"0,904s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/input_Para el recojo de tu compra se necesi_cbc9dd""), ""1"")",Firefox 133.0,,,27-11-2024 23:30:08,27-11-2024 23:30:08,"0,866s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/div_Aceptar""))",Firefox 133.0,,,27-11-2024 23:30:08,27-11-2024 23:30:09,"0,664s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_PAGAR""), 0)",Firefox 133.0,,,27-11-2024 23:30:09,27-11-2024 23:30:11,"1,932s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Datos Personales/button_PAGAR""), 0)",Firefox 133.0,,,27-11-2024 23:30:11,27-11-2024 23:30:12,"0,535s",PASSED
+"callTestCase(findTestCase(""5.Empaques/3.Pago-Empaques/Pago-exitoso""), [:], STOP_ON_FAILURE)",Firefox 133.0,,,27-11-2024 23:30:12,27-11-2024 23:30:13,"1,700s",PASSED
+,,,,,,,
+Test Cases/5.Empaques/4.Positivas/Comprar Empaques - DNI - Tienda,Firefox 133.0,,,27-11-2024 23:30:13,27-11-2024 23:30:45,"31,500s",FAILED
+"callTestCase(findTestCase(""5.Empaques/3.Pago-Empaques/Pago-exitoso""), [:], STOP_ON_FAILURE)",Firefox 133.0,,,27-11-2024 23:30:13,27-11-2024 23:30:45,"31,305s",FAILED
+,,,,,,,
+Test Cases/5.Empaques/4.Positivas/Comprar Empaques - Olvacorp,Firefox 133.0,,,27-11-2024 23:30:45,27-11-2024 23:31:00,"14,884s",FAILED
+"callTestCase(findTestCase(""5.Empaques/1.Inicio-Empaques/Inicio-cajas""), [:], STOP_ON_FAILURE)",Firefox 133.0,,,27-11-2024 23:30:45,27-11-2024 23:30:59,"13,794s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Confirma tus datos/img_Envo de documentoscon un peso mximo de__8aba39""))",Firefox 133.0,,,27-11-2024 23:30:59,27-11-2024 23:30:59,"0,691s",PASSED
+"click(findTestObject(""Comprar Empaques/Page_Olva Courier  Confirma tus datos/button_Cerrar_2""))",Firefox 133.0,,,27-11-2024 23:30:59,27-11-2024 23:31:00,"0,282s",FAILED
+,,,,,,,
+Test Cases/5.Empaques/4.Positivas/Comprar Empaques - RUC - Tienda,Firefox 133.0,,,27-11-2024 23:31:00,27-11-2024 23:31:16,"16,446s",FAILED
+"callTestCase(findTestCase(""5.Empaques/1.Inicio-Empaques/Inicio-cajas""), [:], STOP_ON_FAILURE)",Firefox 133.0,,,27-11-2024 23:31:00,27-11-2024 23:31:15,"15,205s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Olva Courier  Confirma tus datos/img_Envo de documentoscon un peso mximo de__8aba39""))",Firefox 133.0,,,27-11-2024 23:31:15,27-11-2024 23:31:16,"0,703s",PASSED
+"click(findTestObject(""Comprar Empaques/Page_Olva Courier  Confirma tus datos/button_Cerrar_2""))",Firefox 133.0,,,27-11-2024 23:31:16,27-11-2024 23:31:16,"0,344s",FAILED
+,,,,,,,
+Test Cases/5.Empaques/4.Positivas/Empaques AIMO,Firefox 133.0,,,27-11-2024 23:31:16,27-11-2024 23:31:50,"33,693s",PASSED
+"openBrowser("""")",Firefox 133.0,,,27-11-2024 23:31:16,27-11-2024 23:31:31,"14,223s",PASSED
+"navigateToUrl(""https://app.aimo.co"")",Firefox 133.0,,,27-11-2024 23:31:31,27-11-2024 23:31:37,"5,987s",PASSED
+maximizeWindow(STOP_ON_FAILURE),Firefox 133.0,,,27-11-2024 23:31:37,27-11-2024 23:31:37,"0,151s",PASSED
+"setText(findTestObject(""Object Repository/Comprar Empaques/Page_Aimo Dashboard/input_Ingresar_MuiInputBase-input MuiInput-input""), ""fulfillment@olva.com.pe"")",Firefox 133.0,,,27-11-2024 23:31:37,27-11-2024 23:31:39,"1,944s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Aimo Dashboard/input_Ingresar_MuiInputBase-input MuiInput-_643b93""), STOP_ON_FAILURE)",Firefox 133.0,,,27-11-2024 23:31:39,27-11-2024 23:31:39,"0,778s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Comprar Empaques/Page_Aimo Dashboard/input_Ingresar_MuiInputBase-input MuiInput-_643b93""), ""NEzHLWrOQcYvsbSxoLQLQw=="")",Firefox 133.0,,,27-11-2024 23:31:39,27-11-2024 23:31:40,"0,741s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Aimo Dashboard/button_Iniciar sesin""))",Firefox 133.0,,,27-11-2024 23:31:40,27-11-2024 23:31:41,"0,838s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Aimo Dashboard/svg_Ver tienda_sc-AykKH LFzel""))",Firefox 133.0,,,27-11-2024 23:31:41,27-11-2024 23:31:44,"2,804s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Aimo Dashboard/a_Ver tienda_sc-LzLqK fSTtFv""))",Firefox 133.0,,,27-11-2024 23:31:44,27-11-2024 23:31:44,"0,529s",PASSED
+"click(findTestObject(""Object Repository/Comprar Empaques/Page_Aimo Dashboard/checkbox_AIMO""), STOP_ON_FAILURE)",Firefox 133.0,,,27-11-2024 23:31:44,27-11-2024 23:31:46,"1,679s",PASSED
+"verifyTextPresent(""S/. 0"", false)",Firefox 133.0,,,27-11-2024 23:31:46,27-11-2024 23:31:48,"2,429s",PASSED
+"verifyTextPresent(""S/. 0.00"", false)",Firefox 133.0,,,27-11-2024 23:31:48,27-11-2024 23:31:50,"1,408s",PASSED
+,,,,,,,
+Test Cases/5.Empaques/4.Positivas/Empaques Olvacorp,Firefox 133.0,,,27-11-2024 23:31:50,27-11-2024 23:32:06,"16,002s",FAILED
+"callTestCase(findTestCase(""5.Empaques/4.Positivas/Comprar Empaques - Olvacorp""), [:], STOP_ON_FAILURE)",Firefox 133.0,,,27-11-2024 23:31:50,27-11-2024 23:32:06,"15,618s",FAILED

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Detalle</name>
+   <tag></tag>
+   <elementGuidId>e9f33dde-da4d-4fe4-873b-4b20f2daba77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='frmComprobante:tblComprobante:37:btnBuscar']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5c40f5cd-256c-42e5-ab3a-ff9a732b7233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>2db1420a-0cca-49c7-a7b1-15d8bdc68ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detalle de comprobante de pago</value>
+      <webElementGuid>1297a857-55e9-4ebb-9b30-db8f2a524028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmComprobante:tblComprobante:37:btnBuscar&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>2dab477a-62cc-4810-a6d7-ecde6f0da85f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Comprar Empaques/Object Repository/Page_Olva Courier  Datos Personales/Page_Principal - Olva Courier/New Folder/Page_Principal - Olva Courier/iframe</value>
+      <webElementGuid>43815fea-0d6d-4400-882a-797f8bcd46c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmComprobante:tblComprobante:37:btnBuscar']/span[2]</value>
+      <webElementGuid>5d4d91d2-0c40-4e37-9879-78789a05d4c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver imagen'])[38]/following::span[2]</value>
+      <webElementGuid>c234c8db-fe76-424a-a392-231f2c6278a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Devolver dinero Mercado Pago'])[38]/following::span[4]</value>
+      <webElementGuid>f7f882d2-3f38-46ef-9a10-93e57448ddc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRO COMPROBANTE USUARIO'])[38]/preceding::span[1]</value>
+      <webElementGuid>1b0c3d78-47f9-4a0b-9d01-27aed93e8874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PERSONA JURIDICA'])[13]/preceding::span[1]</value>
+      <webElementGuid>4e10e1ac-9573-4b64-8ff3-f933db414f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[38]/td[15]/button/span[2]</value>
+      <webElementGuid>a86994b6-2960-4ff3-9ab7-31f1c01e7b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Detalle de comprobante de pago' or . = 'Detalle de comprobante de pago')]</value>
+      <webElementGuid>792e4cc9-3dc6-4052-977f-4259d1681151</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

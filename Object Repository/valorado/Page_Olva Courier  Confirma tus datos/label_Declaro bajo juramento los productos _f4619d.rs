@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Declaro bajo juramento los productos _f4619d</name>
+   <tag></tag>
+   <elementGuidId>d6980346-9d01-4e1f-8a17-f09568bbe278</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='op_juramento']/ul/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#op_juramento > ul.buttons > label.font-ddjj</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>cc596b4c-667f-492c-af90-9d0d2ad2d3ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>chk_juramento</value>
+      <webElementGuid>f457d90c-d985-4303-a535-a2d49faf2584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-ddjj</value>
+      <webElementGuid>64895cfa-91bc-4ad5-b4b1-6d87bc49a2d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Declaro bajo juramento los productos escritos en el registro de envíos. </value>
+      <webElementGuid>52839d9c-ba11-4529-aebc-52ac36e682c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;op_juramento&quot;)/ul[@class=&quot;buttons&quot;]/label[@class=&quot;font-ddjj&quot;]</value>
+      <webElementGuid>18fbbe10-74c4-4e63-b000-b1e05e844bc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='op_juramento']/ul/label</value>
+      <webElementGuid>e49a835d-f19a-4729-9ae4-a68b5e926b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='He leído la'])[1]/following::label[1]</value>
+      <webElementGuid>277bfeb2-4abc-4f3d-b2ed-070f513e04de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/ 1800.00'])[1]/following::label[2]</value>
+      <webElementGuid>400049a4-ae12-4d66-b4de-2680b8944b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/preceding::label[1]</value>
+      <webElementGuid>d1d5f2d8-b86c-48b5-94a4-e6027b869772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DECLARACIÓN JURADA DE CONTENIDO Y EMBALAJE'])[1]/preceding::label[1]</value>
+      <webElementGuid>73b184c5-6331-4d87-b319-84eea3fa539b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Declaro bajo juramento los productos escritos en el registro de envíos.']/parent::*</value>
+      <webElementGuid>7d819000-4547-4da7-aecc-12baf3cd5339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/ul/label</value>
+      <webElementGuid>f08062f4-6b5d-40c7-9852-7228f75ea8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Declaro bajo juramento los productos escritos en el registro de envíos. ' or . = ' Declaro bajo juramento los productos escritos en el registro de envíos. ')]</value>
+      <webElementGuid>77496d21-1620-48aa-9d3b-49313ccfdcd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ingrese nmero de celular</name>
+   <tag></tag>
+   <elementGuidId>ea4b5d78-9336-45f0-88ea-4e6a3289f613</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='txt_telefono_cliente_msg'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a5537bc5-35c4-49b4-bea9-f33341829a0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_telefono_cliente_msg</value>
+      <webElementGuid>bade47ef-935f-4401-82c6-6a9825fe3626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>31b66f79-059d-401c-ae88-f7d53d5ae304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ingrese número de celular</value>
+      <webElementGuid>d11cfefe-e940-46c4-a5e0-dd221220d14e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;quien_envia&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 cls_element_item&quot;]/div[@id=&quot;txt_telefono_cliente_msg&quot;]</value>
+      <webElementGuid>e52717b7-1da6-4ad0-8a65-6515d5fc052a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='txt_telefono_cliente_msg'])[2]</value>
+      <webElementGuid>48e96c0c-9961-429f-8335-d291c8a46328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='quien_envia']/div[2]/div[5]/div[2]</value>
+      <webElementGuid>008d3085-3bbe-4981-899c-8bc524aee762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese 9 digitos'])[1]/following::div[1]</value>
+      <webElementGuid>4867e68f-5e46-4265-8d0a-7d384d270857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe Ingresar un Número Documento'])[1]/following::div[3]</value>
+      <webElementGuid>444b18ca-b227-4498-9a76-dd3a77cbd81e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola,'])[1]/preceding::div[3]</value>
+      <webElementGuid>d77bf559-6502-44d6-9595-be29d04d407b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese formato correo electrónico'])[1]/preceding::div[5]</value>
+      <webElementGuid>8eb48713-aac7-44fe-8486-67923ea4f273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]</value>
+      <webElementGuid>23d58be7-5dfe-4a40-abf0-13fa445ba10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'txt_telefono_cliente_msg' and (text() = 'Ingrese número de celular' or . = 'Ingrese número de celular')]</value>
+      <webElementGuid>eae9f8c2-36a2-41cd-b9ec-41902e1cbf4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

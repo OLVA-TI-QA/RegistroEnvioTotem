@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Comprar Empaques - CE - Tienda</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99c9637c-871d-404c-af6e-ea4550295e29</testCaseGuid>
+</TestCaseEntity>

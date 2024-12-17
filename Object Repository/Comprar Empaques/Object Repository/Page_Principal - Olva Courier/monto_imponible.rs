@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>monto_imponible</name>
+   <tag></tag>
+   <elementGuidId>d62b4c5b-1c77-4eb4-a644-9022f41b186a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='frmConsultaEnvio:panelEnvio:j_idt385']/div/table/tbody/tr[2]/td[6]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ece45930-0c34-4d24-a833-7ba171936cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0,00</value>
+      <webElementGuid>aeef6bb9-4add-4ba9-a0d3-cb4247598534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmConsultaEnvio:panelEnvio:j_idt385&quot;)/div[@class=&quot;ui-fieldset-content&quot;]/table[1]/tbody[1]/tr[2]/td[6]/span[1]</value>
+      <webElementGuid>3b166fcb-c839-4e37-9f0e-68fcc1f3d82c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Comprar Empaques/Page_Principal - Olva Courier/iframe_Consulta Envio_iframeConsultaEnvio</value>
+      <webElementGuid>838b3f30-e25b-4c41-b929-5d3c25f15941</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Principal - Olva Courier/iframe_Consulta Envio_iframeConsultaEnvio</value>
+      <webElementGuid>125da148-756b-4977-a5d3-206137763574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Comprar Empaques/Object Repository/Page_Principal - Olva Courier/iframe_Consulta Envio_iframeConsultaEnvio</value>
+      <webElementGuid>52594f4f-4a9b-4824-8e41-93239f6e0d66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='frmConsultaEnvio:panelEnvio:j_idt385']/div/table/tbody/tr[2]/td[6]/span</value>
+      <webElementGuid>0713bd3e-7ae7-4f4f-adde-2e625e420ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/.'])[6]/following::span[1]</value>
+      <webElementGuid>d8b60d80-7a9c-49d9-8a97-6ed03aa87234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IMPONIBLE:'])[1]/following::span[2]</value>
+      <webElementGuid>42216ed4-99d4-4dd2-ae46-618cc2f475ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IGV:'])[1]/preceding::span[1]</value>
+      <webElementGuid>fc7e6f94-2023-4350-97e7-fbcf7c9582ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/.'])[7]/preceding::span[1]</value>
+      <webElementGuid>253704be-4f73-4a94-a92f-276a362dbb8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[6]/span</value>
+      <webElementGuid>dce9ab55-1ff2-40d3-8d5f-d7d9fbc057bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '0,00' or . = '0,00')]</value>
+      <webElementGuid>a6d17c01-4298-42a5-be71-a97dd3ed6905</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

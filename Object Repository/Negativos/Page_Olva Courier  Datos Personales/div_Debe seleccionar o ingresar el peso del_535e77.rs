@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Debe seleccionar o ingresar el peso del_535e77</name>
+   <tag></tag>
+   <elementGuidId>2f859d6a-7e41-4c37-9b14-713da4d2f4c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div_peso_inferior_msg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#div_peso_inferior_msg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ec95e98-46b6-453d-a6bf-52f3b606452f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>div_peso_inferior_msg</value>
+      <webElementGuid>0e7b96e8-b9d6-4c4d-a4cd-41e52318dab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>9068753c-0b31-4f1d-ae1b-669c152760cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Debe seleccionar o ingresar el peso del paquete.</value>
+      <webElementGuid>1bfa3dae-94b5-4e50-a7b9-7ce375ec3543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div_peso_inferior_msg&quot;)</value>
+      <webElementGuid>0ebe126e-7189-4286-ac57-edf095ce1e83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='div_peso_inferior_msg']</value>
+      <webElementGuid>29f95a87-aefb-4400-a434-b789cd5e9db6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='que_envias']/div[5]/div[2]</value>
+      <webElementGuid>7d2bc9a8-6b95-42f5-873b-1445bb949038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kg'])[1]/following::div[2]</value>
+      <webElementGuid>d6c61734-5fe9-4c4c-9935-b801ca3002af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cm'])[1]/preceding::div[6]</value>
+      <webElementGuid>da65da09-5220-4147-bea0-9b84395b3e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Las dimensiones mínimas deben ser 10cm x 10cm x 14cm o el equivalente.'])[1]/preceding::div[7]</value>
+      <webElementGuid>4ca62f70-ab28-41ee-a86c-be8cec9d64ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Debe seleccionar o ingresar el peso del paquete.']/parent::*</value>
+      <webElementGuid>822c1f53-3a89-4f8e-8c3c-a08df3dfce70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]</value>
+      <webElementGuid>cb0aafb8-61ca-4889-b246-4b53ca09c2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'div_peso_inferior_msg' and (text() = 'Debe seleccionar o ingresar el peso del paquete.' or . = 'Debe seleccionar o ingresar el peso del paquete.')]</value>
+      <webElementGuid>221d4bb8-ab45-466c-ba15-1f17bfcd7449</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_0.00</name>
+   <tag></tag>
+   <elementGuidId>60b78e09-ec02-4c8d-aa49-7db884d617b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@class='MuiBox-root jss558 sc-fzXfOs fLqWMm']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.jss1410.sc-fzXfOs.fLqWMm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e09c28c3-f3bc-4723-b6dd-eac3dbaefeb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root jss1410 sc-fzXfOs fLqWMm</value>
+      <webElementGuid>e1e0ed57-4077-4a4a-9af4-64cec47822a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$ 
+            0.00</value>
+      <webElementGuid>2e2548cd-6fc0-4af9-9495-39889893c7d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;749501&quot;)/td[@class=&quot;MuiTableCell-root MuiTableCell-body&quot;]/div[@class=&quot;MuiBox-root jss1410 sc-fzXfOs fLqWMm&quot;]</value>
+      <webElementGuid>8e5b7bf2-8070-4c56-9d0b-3efe07b70799</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='749501']/td[10]/div</value>
+      <webElementGuid>1215bd36-860a-482d-b314-0d7b6fb1ef11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::div[1]</value>
+      <webElementGuid>7dc664fa-545c-4ed3-8ba2-90b59fa05181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creado'])[2]/following::div[4]</value>
+      <webElementGuid>f4858562-b76c-40d3-93f6-7383ae0201b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::div[2]</value>
+      <webElementGuid>8e0b6432-51fb-4852-b4ef-385f751abc55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div</value>
+      <webElementGuid>52fa6be1-ce31-452d-93c9-a8230f9d5403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '$ 
+            0.00' or . = '$ 
+            0.00')]</value>
+      <webElementGuid>1b7dfb62-325a-4969-8c2a-ff7e8413154f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

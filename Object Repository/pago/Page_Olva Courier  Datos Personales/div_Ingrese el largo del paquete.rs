@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ingrese el largo del paquete</name>
+   <tag></tag>
+   <elementGuidId>ee356188-7ea5-4d4b-804b-c4077c38eb64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-input-largo_msg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modal-input-largo_msg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0d940298-e24c-42ec-bff6-239a38f107b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>modal-input-largo_msg</value>
+      <webElementGuid>b0200c2a-1857-4277-8d87-2362d5c28278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>39533dac-4c0c-4e9a-8d90-1749bf6415b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ingrese el largo del paquete</value>
+      <webElementGuid>61ff047e-4a18-4004-bcb8-56e8aaa66ffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-input-largo_msg&quot;)</value>
+      <webElementGuid>ff9b1905-7849-4591-8ea3-19b618bf295e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='modal-input-largo_msg']</value>
+      <webElementGuid>06a5c5ad-2bd0-460e-adce-2397a60969e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPesoDimensiones']/div/div/div[2]/div/div/div[3]/div</value>
+      <webElementGuid>fe9dc7ab-b6e2-4c22-8339-aebaa70b4174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Largo (cm)'])[1]/following::div[1]</value>
+      <webElementGuid>24ada9e2-3c84-4e51-8f81-2225972946e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese el ancho del paquete'])[1]/following::div[2]</value>
+      <webElementGuid>4d3b5d46-ab36-4ba8-8180-a28981ab836e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alto (cm)'])[1]/preceding::div[3]</value>
+      <webElementGuid>21ba5d34-8310-40af-9945-38e8c5c53be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese el alto del paquete'])[1]/preceding::div[3]</value>
+      <webElementGuid>8ea2279e-bea4-4be8-b336-56cae6afff53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ingrese el largo del paquete']/parent::*</value>
+      <webElementGuid>c799280a-2219-422a-9dc0-e2f79f965eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div/div/div[2]/div/div/div[3]/div</value>
+      <webElementGuid>e2e77e42-c666-4702-8dcb-8b76c0e4b6f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'modal-input-largo_msg' and (text() = 'Ingrese el largo del paquete' or . = 'Ingrese el largo del paquete')]</value>
+      <webElementGuid>d05e408c-bd89-484c-a52f-a3e51f2f9dca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

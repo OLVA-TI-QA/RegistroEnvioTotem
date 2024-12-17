@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_El peso no puede exceder los 25 Kgs</name>
+   <tag></tag>
+   <elementGuidId>2592c2a9-6b8e-41db-b14e-f051bf63622c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-input-peso_msg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modal-input-peso_msg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d82a596b-5c61-4575-b04f-3c87531e7ac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>modal-input-peso_msg</value>
+      <webElementGuid>3614a75a-bbdc-4ea5-bb6a-25b15dee4206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>e3d38f16-6f38-4cdf-a8b9-383f1ba1b1a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El peso no puede exceder los 25 Kgs.</value>
+      <webElementGuid>19facd62-b9fd-42bd-85ef-50b5b6efdf12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-input-peso_msg&quot;)</value>
+      <webElementGuid>ab60ab12-a387-4830-aadd-1190c46f225a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='modal-input-peso_msg']</value>
+      <webElementGuid>f6a93202-1064-4711-8d6f-c56b3c97ee09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPesoDimensiones']/div/div/div[2]/div[2]/div/div[3]/div</value>
+      <webElementGuid>c7336033-a4ca-450c-ac42-5a54225c5e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peso (Kg)'])[1]/following::div[1]</value>
+      <webElementGuid>a772a209-3e98-4785-8264-171284ad0af6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alto (cm)'])[1]/following::div[2]</value>
+      <webElementGuid>f5d119a6-d06a-46cf-9dcb-a79692d5e898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CALCULAR'])[1]/preceding::div[2]</value>
+      <webElementGuid>11ac8e79-b542-424f-91c5-feb8da6a260b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tracking Web'])[1]/preceding::div[4]</value>
+      <webElementGuid>fb0ad833-ede2-4df6-8b1c-d5093ca5f79f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El peso no puede exceder los 25 Kgs.']/parent::*</value>
+      <webElementGuid>04373fcf-e6ef-4397-850e-98263b3ff7fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[3]/div</value>
+      <webElementGuid>340231d6-be4b-42d3-80d5-d58a2b38586d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'modal-input-peso_msg' and (text() = 'El peso no puede exceder los 25 Kgs.' or . = 'El peso no puede exceder los 25 Kgs.')]</value>
+      <webElementGuid>5fd3b52d-0586-4e3c-9615-1b27096490ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

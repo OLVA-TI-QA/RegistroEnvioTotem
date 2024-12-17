@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ingrese el peso del paquete</name>
+   <tag></tag>
+   <elementGuidId>60d9e2b6-25f3-454b-9e1a-dcb3f615acdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-input-peso_msg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modal-input-peso_msg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec36a8e6-6e8f-4ae6-9c34-a37ccb9fdfc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>modal-input-peso_msg</value>
+      <webElementGuid>73c2571d-56b5-4623-8b39-e61945d143f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>eb4ca2da-bfa0-4e70-9b96-3544c5b38391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ingrese el peso del paquete</value>
+      <webElementGuid>dfd24231-fa68-45e5-a58d-6558cb0f0688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-input-peso_msg&quot;)</value>
+      <webElementGuid>edcd68b5-97b5-4141-b5ce-cab0904050a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='modal-input-peso_msg']</value>
+      <webElementGuid>628505e8-7a5a-437d-aa4a-28073b7eff60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPesoDimensiones']/div/div/div[2]/div[2]/div/div[3]/div</value>
+      <webElementGuid>a951102b-5506-4118-b3ae-fe6a1cf49345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peso (Kg)'])[1]/following::div[1]</value>
+      <webElementGuid>811cddf9-99af-4957-9def-d10b3e5d662f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese el alto del paquete'])[1]/following::div[2]</value>
+      <webElementGuid>c4386041-daee-4731-88c4-705562f54e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CALCULAR'])[1]/preceding::div[2]</value>
+      <webElementGuid>45a2b743-857d-4b56-805a-3ffebe578b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tracking Web'])[1]/preceding::div[4]</value>
+      <webElementGuid>345a131d-d6e1-4916-8014-37c11ce2090f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ingrese el peso del paquete']/parent::*</value>
+      <webElementGuid>c0531dcc-5648-4630-a128-e41f7f17af98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[3]/div</value>
+      <webElementGuid>4cf52d0e-0a10-4d29-8d9f-ea6f797278b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'modal-input-peso_msg' and (text() = 'Ingrese el peso del paquete' or . = 'Ingrese el peso del paquete')]</value>
+      <webElementGuid>b9aa1031-2186-4823-aa9d-3d435dfda39b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

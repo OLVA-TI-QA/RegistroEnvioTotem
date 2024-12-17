@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AGREGAR ENVOS</name>
+   <tag></tag>
+   <elementGuidId>c6d6f2cc-889b-4bee-8570-41b09fb92fb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='fieldset_paso3']/div/h4/div[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-warning.add-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>af647cbe-61da-424a-88fb-2dfdefd4674d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning add-btn</value>
+      <webElementGuid>cadb655d-fa6e-4b63-bceb-a16c94dcc18d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> AGREGAR ENVÍOS</value>
+      <webElementGuid>719ee27d-388b-4e13-a804-985a9e4a6b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fieldset_paso3&quot;)/div[@class=&quot;row cls_subtitle_form&quot;]/h4[1]/div[@class=&quot;col-md-5&quot;]/button[@class=&quot;btn btn-warning add-btn&quot;]</value>
+      <webElementGuid>2e5c3f75-1d36-4746-891d-5bf1386d3f53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso3']/div/h4/div[3]/button</value>
+      <webElementGuid>87e57e04-f165-424b-9d6b-3a4fce66640a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resumen de Envíos registrados'])[1]/following::button[1]</value>
+      <webElementGuid>bf18fce8-01bc-4ae9-a805-263eec75c9ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Espere por favor'])[1]/following::button[1]</value>
+      <webElementGuid>d2380fa8-ed1c-4472-bb48-5430a8a2ad9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recibe'])[1]/preceding::button[1]</value>
+      <webElementGuid>ad4d921c-2ce2-41ee-b10c-a7b1f642fb2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>3b682d29-9749-45c3-99c6-e6180bb73b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' AGREGAR ENVÍOS' or . = ' AGREGAR ENVÍOS')]</value>
+      <webElementGuid>92799a2a-1d23-4349-b075-002119f04b83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AYACUCHO - PAUCAR DEL SARA SARA - PAUSA</name>
+   <tag></tag>
+   <elementGuidId>cf19a14c-9cbe-47bc-b27f-0df39e23e54a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.dropdown-toggle.form-control.selectpicker.btn-default.errorValid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c10f5245-e885-4aec-b0c9-66cecae855c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9e99ba12-45d4-4eda-ac09-d6bbd8d7a1c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn dropdown-toggle form-control selectpicker btn-default errorValid</value>
+      <webElementGuid>3526c0ec-d15e-4767-87cd-f696025ca06b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>16017949-99b0-4416-991c-0786bcd5463e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>txt_descripcion_ubigeo</value>
+      <webElementGuid>a36c1848-3d3f-4f10-a3ea-4517fcd58af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>AYACUCHO - PAUCAR DEL SARA SARA - PAUSA</value>
+      <webElementGuid>e57907e8-86b6-464c-9072-bfe7502cdecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                          AYACUCHO - PAUCAR DEL SARA SARA - PAUSA
+                         </value>
+      <webElementGuid>c2c85daa-6262-4420-965b-c2ca567d871f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container_origen_destino&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5 col-sm-12 col-xs-12 title-fieldset&quot;]/div[1]/div[@class=&quot;col-md-12 cls_element_item espacio_vista_xs_2&quot;]/div[@class=&quot;btn-group bootstrap-select form-control dropup&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default errorValid&quot;]</value>
+      <webElementGuid>e67c008e-95bb-4ed7-b447-ba9b000862e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>12144d09-efbb-4211-82fc-b2ea21a84610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container_origen_destino']/div/div[3]/div/div/div/button</value>
+      <webElementGuid>f1f6976d-beb6-40a4-9850-7439aaae24e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Destino'])[1]/following::button[1]</value>
+      <webElementGuid>0590dbaf-f996-4cbd-bc6f-7164cefc3001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROVINCIA'])[1]/following::button[1]</value>
+      <webElementGuid>7ebb79b6-705c-4c80-a478-78b6cebabfb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese el punto de llegada'])[2]/preceding::button[1]</value>
+      <webElementGuid>bce9549c-0019-4adf-89bb-bafa38366d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/div/button</value>
+      <webElementGuid>237b7ebd-c8b5-4029-8846-f0c12d5d8752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'AYACUCHO - PAUCAR DEL SARA SARA - PAUSA' and (text() = '
+                          AYACUCHO - PAUCAR DEL SARA SARA - PAUSA
+                         ' or . = '
+                          AYACUCHO - PAUCAR DEL SARA SARA - PAUSA
+                         ')]</value>
+      <webElementGuid>6722ad76-728d-43dc-b3de-926d1799a587</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

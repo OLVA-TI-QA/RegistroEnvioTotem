@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Editar_Eliminar-Envios</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd285da2-0b95-47ea-9c85-0c74c2cfc2c1</testCaseGuid>
+</TestCaseEntity>

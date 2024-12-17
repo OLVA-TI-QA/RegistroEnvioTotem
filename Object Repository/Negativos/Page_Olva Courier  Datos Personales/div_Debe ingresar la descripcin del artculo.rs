@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Debe ingresar la descripcin del artculo</name>
+   <tag></tag>
+   <elementGuidId>8a2993f1-539b-4455-af77-4ff468884a87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='txt_paquete_articulo_msg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#txt_paquete_articulo_msg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bfd0877e-b5d1-4031-9687-7db5d732e4c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_paquete_articulo_msg</value>
+      <webElementGuid>28206e8d-529f-4ebf-956d-6d074df113e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>fea0a7ad-a7b6-44e9-aa13-44cb3e112549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Debe ingresar la descripción del artículo</value>
+      <webElementGuid>85822fc1-0639-4c5c-8ef9-f3f36095a2c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txt_paquete_articulo_msg&quot;)</value>
+      <webElementGuid>c2df80c7-7804-47d2-a2c0-0287749aa264</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='txt_paquete_articulo_msg']</value>
+      <webElementGuid>fe89734f-9b10-4963-8c2d-8cb5c1417d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_articulo_descripcion']/div</value>
+      <webElementGuid>860b3127-232c-46f5-a6f7-cacc48a6c9c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe seleccionar un artículo de la lista'])[1]/following::div[2]</value>
+      <webElementGuid>d5066ff3-bbf2-4974-92aa-c93dd0bf95f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UTILES DE OFICINA'])[2]/following::div[3]</value>
+      <webElementGuid>890aa5cf-bfd3-45e2-a3e2-ca061a9bca0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese un valor al articulo'])[1]/preceding::div[1]</value>
+      <webElementGuid>aa6b0b5f-dc66-4aed-9b7f-58578d89724e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peso del envío'])[1]/preceding::div[5]</value>
+      <webElementGuid>8f9367f2-acc7-4891-87ea-5cb80565d6a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Debe ingresar la descripción del artículo']/parent::*</value>
+      <webElementGuid>0e2d4250-dcf7-49e1-813b-7088d5a476e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>7403712b-2a85-4f8c-a689-12384d3bd905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'txt_paquete_articulo_msg' and (text() = 'Debe ingresar la descripción del artículo' or . = 'Debe ingresar la descripción del artículo')]</value>
+      <webElementGuid>cfb066c2-a484-427b-be71-9fe7de55b75b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

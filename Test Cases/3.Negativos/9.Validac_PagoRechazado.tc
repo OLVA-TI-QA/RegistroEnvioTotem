@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9.Validac_PagoRechazado</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>836b72b6-408c-4c36-829d-9f27c8487d39</testCaseGuid>
+</TestCaseEntity>

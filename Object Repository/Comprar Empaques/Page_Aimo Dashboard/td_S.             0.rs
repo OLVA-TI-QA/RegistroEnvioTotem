@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_S.             0</name>
+   <tag></tag>
+   <elementGuidId>84cc6e55-7b05-48a9-9c86-6888cc74aaff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='1111604']/td[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d6a4a17e-be21-42f2-9ad1-455996ff5ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTableCell-root MuiTableCell-body</value>
+      <webElementGuid>693d1ab7-b718-46c5-8dda-4253ba640f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S/. 
+            0</value>
+      <webElementGuid>e1df2e98-2492-4833-aa77-776383df0c30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1111604&quot;)/td[@class=&quot;MuiTableCell-root MuiTableCell-body&quot;]</value>
+      <webElementGuid>ce1ab13b-ab08-46b6-a20b-d4c635218d42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='1111604']/td[11]</value>
+      <webElementGuid>ac5e61df-03c1-4f7f-93c4-a573d07f9c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FREDERICH ENMANUEL ADAMES NAVAS'])[1]/following::td[2]</value>
+      <webElementGuid>e9a8a4ef-8028-4fbe-adac-0b7a0da83462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOHJOTE8'])[1]/preceding::td[1]</value>
+      <webElementGuid>d50819e7-8468-4a4a-8f14-9f0f7b3e3de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]</value>
+      <webElementGuid>3a4575f7-94cd-455e-9819-80fb37a8ca0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'S/. 
+            0' or . = 'S/. 
+            0')]</value>
+      <webElementGuid>25bb2fb3-c7ee-411e-93c8-0f74f1ddd471</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

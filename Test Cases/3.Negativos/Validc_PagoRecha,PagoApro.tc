@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validc_PagoRecha,PagoApro</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7670e49f-1585-4e52-a3b3-7ff6ffea1d22</testCaseGuid>
+</TestCaseEntity>

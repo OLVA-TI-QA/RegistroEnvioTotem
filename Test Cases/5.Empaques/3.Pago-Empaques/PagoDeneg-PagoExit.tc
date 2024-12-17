@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PagoDeneg-PagoExit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf7b4479-2c48-4c76-9f34-7abb85fa6a1a</testCaseGuid>
+</TestCaseEntity>

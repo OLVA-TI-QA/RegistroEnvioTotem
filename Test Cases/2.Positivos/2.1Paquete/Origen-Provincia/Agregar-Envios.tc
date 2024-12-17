@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agregar-Envios</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff73ecdd-50b7-49d9-9d8c-64c7178717a6</testCaseGuid>
+</TestCaseEntity>

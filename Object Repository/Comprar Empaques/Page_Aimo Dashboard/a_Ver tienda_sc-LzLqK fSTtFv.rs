@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ver tienda_sc-LzLqK fSTtFv</name>
+   <tag></tag>
+   <elementGuidId>ccb6919a-8eee-401a-b184-1161015f5834</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href='/ordenes']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.sc-LzLqK.fSTtFv</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c9ac827a-6711-4366-8ad4-387987f34f0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>padding</name>
+      <type>Main</type>
+      <value>10px 35px</value>
+      <webElementGuid>54eb48d8-925f-4a7d-96c0-c82db2e0b534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-LzLqK fSTtFv</value>
+      <webElementGuid>a4a484ef-11f9-45de-a988-0d50ed77df6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ordenes-de-compra</value>
+      <webElementGuid>f57cfc53-157a-4344-91b5-d72a4e8f0daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-AykKG kgDmSr&quot;]/div[@class=&quot;sc-LzLqD gUHaMp&quot;]/div[@class=&quot;sc-LzLqE hyTHot&quot;]/div[@class=&quot;sc-AykKG cJcNzl&quot;]/div[@class=&quot;sc-LzLqG ZMEiK&quot;]/div[@class=&quot;sc-AykKG kihOPE&quot;]/div[@class=&quot;sc-LzLqG gcFldv&quot;]/div[@class=&quot;sc-AykKG kihOPE&quot;]/div[@class=&quot;sc-AykKG sc-LzLqJ gJkDuT&quot;]/a[@class=&quot;sc-LzLqK fSTtFv&quot;]</value>
+      <webElementGuid>baa34b45-4f93-4eb2-bde4-4c935d971527</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[5]/div[2]/div/div/a</value>
+      <webElementGuid>a2f042d1-97b9-4aaf-8583-266c18ee4b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ordenes-de-compra')]</value>
+      <webElementGuid>d5b5e1f8-8957-4b1b-bff9-5d428368f19a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>73451137-0d1d-4241-b486-30084a757286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ordenes-de-compra']</value>
+      <webElementGuid>a1f02e0b-5189-46d1-9bf3-766f7f814b7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

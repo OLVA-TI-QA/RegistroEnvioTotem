@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Comprar Empaques - Agregar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d183d976-d0b6-4102-8604-a64e71c7e4a6</testCaseGuid>
+</TestCaseEntity>

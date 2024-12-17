@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Importe pagado  14.5</name>
+   <tag></tag>
+   <elementGuidId>22f26bef-fc5f-464a-9738-52ce67ac3369</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/fieldset/div[3]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d066af0c-6a76-4150-b601-1144a2fc05b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-3</value>
+      <webElementGuid>f020f51d-2e5e-4905-aa5e-46d642464795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Importe pagado:  14.5
+            </value>
+      <webElementGuid>55733208-8bf5-4217-9fcf-ce1ecb9becc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container&quot;]/fieldset[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]</value>
+      <webElementGuid>331afc50-0eb3-41a5-b047-fc25e6693afb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/fieldset/div[3]/div[4]</value>
+      <webElementGuid>eab2eee1-9252-4f27-9be9-9cffbbd31443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tarjeta:'])[1]/following::div[1]</value>
+      <webElementGuid>a65771ea-94a2-47fd-8ed5-955665961e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimado Cliente, por favor imprimir y guardar esta página ante posibles reclamos.'])[1]/preceding::div[1]</value>
+      <webElementGuid>10b87f04-7fca-4d90-bbdc-6daad63f3690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='14.5']/parent::*</value>
+      <webElementGuid>31ca984c-fcb1-48ea-9f16-68be7725a5ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>e469f027-54b3-40fb-8bf7-d45daa574ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                Importe pagado:  14.5
+            ' or . = '
+                Importe pagado:  14.5
+            ')]</value>
+      <webElementGuid>0e65bfd5-174e-4a78-9122-a69bfb1b6348</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

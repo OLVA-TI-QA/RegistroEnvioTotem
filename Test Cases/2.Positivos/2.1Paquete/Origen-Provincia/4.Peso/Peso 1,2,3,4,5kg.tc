@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Peso 1,2,3,4,5kg</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf810244-06ae-4cd0-9fce-557638d1add6</testCaseGuid>
+</TestCaseEntity>

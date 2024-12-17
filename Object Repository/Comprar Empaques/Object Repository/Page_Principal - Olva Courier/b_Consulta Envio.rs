@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Consulta Envio</name>
+   <tag></tag>
+   <elementGuidId>613fbdc0-89f7-4ec8-b950-79450ddfcf36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmPrincipal']/div[8]/div[10]/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>bf4749f4-cf37-4e5c-8fc7-cb9f009bc235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Consulta Envio:</value>
+      <webElementGuid>492e115d-82f3-446f-a541-ff83273971a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPrincipal&quot;)/div[@class=&quot;optm_cleanBox&quot;]/div[@class=&quot;optm_floatLeft&quot;]/b[1]</value>
+      <webElementGuid>e5a32fd1-de9e-44de-bece-93ecda79025d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmPrincipal']/div[8]/div[10]/b</value>
+      <webElementGuid>49943424-3d0f-4e20-b43c-a5c3abb2bd7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panel Visa - Niubiz'])[1]/following::b[1]</value>
+      <webElementGuid>9fc02bb6-55ae-42b7-8e87-c98803ea45fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Niubiz'])[1]/following::b[1]</value>
+      <webElementGuid>778b0d6c-0196-4461-aacf-5f619d3b550b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consulta Envio'])[1]/preceding::b[1]</value>
+      <webElementGuid>c02ef138-accc-43a1-b225-ab0418a83065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oficinas:'])[1]/preceding::b[1]</value>
+      <webElementGuid>0eb3291b-6343-4b65-9cd1-37df225ddf7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Consulta Envio:']/parent::*</value>
+      <webElementGuid>38bef495-3273-45f3-9ae4-abb511315d0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/b</value>
+      <webElementGuid>09696471-044e-4940-987d-5bd42fe0d817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Consulta Envio:' or . = 'Consulta Envio:')]</value>
+      <webElementGuid>d23f6eb8-f4a1-4ede-acc4-749356a57542</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

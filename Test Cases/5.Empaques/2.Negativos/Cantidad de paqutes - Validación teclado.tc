@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cantidad de paqutes - Validación teclado</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74c6a518-07f7-4f03-a6b3-29b5b17fc88f</testCaseGuid>
+</TestCaseEntity>

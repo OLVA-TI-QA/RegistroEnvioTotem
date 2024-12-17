@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Reporte_iframePrincipal (1)</name>
+   <tag></tag>
+   <elementGuidId>13ff57b5-df7d-4aee-8839-20e0c76838a0</elementGuidId>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>cb5b5cb5-b849-4b73-8f21-c995ca597c3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>iframePrincipal</value>
+      <webElementGuid>39b4db9a-4362-4742-93aa-c8fb8b4b5132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget ui-widget-content ui-corner-all iframeLayoutCenter</value>
+      <webElementGuid>060a7e85-5113-4c10-b4c6-ada97f7020d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/OlvaERP-Maestro-web/atencionCliente\ventas.xhtml?nodeTree=Anular / Modificar&amp;codeTree=070102&amp;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aF9zZXJ2ZXJfaWQiXSwidXNlcl9uYW1lIjoiR0FSQ0UiLCJzY29wZSI6WyJyZWFkLHdyaXRlIl0sImV4cCI6MTY3OTExMzM1NCwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiZDY1OThmY2UtNDViMS00YTVjLWEyM2UtNTkwMTQ3YTY1YjkzIiwiY2xpZW50X2lkIjoiYXV0aG9yaXphdGlvbiJ9.cQktVLC6IKB2Q8G9jBB6TWkU1pfJ13HQvm-l-dapZcw</value>
+      <webElementGuid>ee40f175-3c42-4128-be39-40f06174518b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iframePrincipal&quot;)</value>
+      <webElementGuid>b1cebd64-58c9-47eb-b154-2e816bf17710</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//iframe[@id='iframePrincipal']</value>
+      <webElementGuid>644eedaa-c4de-423e-b560-cbbbb69ade25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='frmPrincipal:centerContentPanel']/iframe</value>
+      <webElementGuid>38b482ac-c0ff-4283-8493-50d9242733ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>eb589801-5f3e-44f7-9658-7146f19ddd84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@id = 'iframePrincipal' and @src = '/OlvaERP-Maestro-web/atencionCliente\ventas.xhtml?nodeTree=Anular / Modificar&amp;codeTree=070102&amp;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aF9zZXJ2ZXJfaWQiXSwidXNlcl9uYW1lIjoiR0FSQ0UiLCJzY29wZSI6WyJyZWFkLHdyaXRlIl0sImV4cCI6MTY3OTExMzM1NCwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiZDY1OThmY2UtNDViMS00YTVjLWEyM2UtNTkwMTQ3YTY1YjkzIiwiY2xpZW50X2lkIjoiYXV0aG9yaXphdGlvbiJ9.cQktVLC6IKB2Q8G9jBB6TWkU1pfJ13HQvm-l-dapZcw']</value>
+      <webElementGuid>a983d5ee-5cb7-45d8-94af-05fb2c21a3a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

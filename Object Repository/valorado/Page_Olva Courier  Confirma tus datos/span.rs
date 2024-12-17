@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>8f8d4a18-f347-4f70-8394-3e0561ce658e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='op_juramento']/ul/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#op_juramento > ul.buttons > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d9dc24a-661c-4b81-8c37-254304657dac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;op_juramento&quot;)/ul[@class=&quot;buttons&quot;]/span[1]</value>
+      <webElementGuid>4722a1a7-007c-4ddd-8ca3-1f23df39e4c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='op_juramento']/ul/span</value>
+      <webElementGuid>848dfbc3-e80b-4422-b584-696e5dff5f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/ul/span</value>
+      <webElementGuid>c29343e4-2ce8-4742-8044-9bbe1ce379f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

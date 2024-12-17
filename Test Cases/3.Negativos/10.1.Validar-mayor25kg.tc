@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10.1.Validar-mayor25kg</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc1e9049-197d-458c-a778-d4d2f860b12d</testCaseGuid>
+</TestCaseEntity>

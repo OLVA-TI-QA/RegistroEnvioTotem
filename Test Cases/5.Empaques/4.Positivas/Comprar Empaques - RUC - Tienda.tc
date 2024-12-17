@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Comprar Empaques - RUC - Tienda</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>799424cf-de03-4ce2-b3ef-b670c836ab54</testCaseGuid>
+</TestCaseEntity>
